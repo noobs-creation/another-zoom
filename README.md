@@ -6,10 +6,8 @@ Video Meeting is a video conference website that lets you stay in touch with all
 
 Developed with ReactJS, Node.js, SocketIO.
 
-![Website](https://i.imgur.com/HhZD01o.jpg)
-
 ### Website
-Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo.com)
+Try Video Meeting here [noobs-creation-another-zoom.herokuapp.com](https://noobs-creation-another-zoom.herokuapp.com/)
 
 
 ### Features
@@ -19,9 +17,3 @@ Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo
 - Messaging chat and video streaming in real-time
 - Screen sharing to present documents, slides, and more
 - Everyting is peer-to-peer thanks to webrtc
-
-
-### Local setup
-
-1. `yarn install`
-2. `yarn dev`
